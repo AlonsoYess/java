@@ -147,5 +147,8 @@ public class Employee {
         this.Email = Email;
     }
     
-    
+    @Override
+    public String toString() {
+        return getFirstName();
+    }
 }

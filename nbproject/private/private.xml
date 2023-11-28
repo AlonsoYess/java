@@ -4,9 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/PAVEL/Desktop/DPA/CICLO%206/DA2/ProyectoFinal/Disquera/src/IU/FrmMantGenre.java</file>
-            <file>file:/C:/Users/PAVEL/Desktop/DPA/CICLO%206/DA2/ProyectoFinal/Disquera/src/UTIL/DbBean.java</file>
-            <file>file:/C:/Users/PAVEL/Desktop/DPA/CICLO%206/DA2/ProyectoFinal/Disquera/src/DAO/GenreDAO.java</file>
+            <file>file:/C:/Users/PAVEL/Desktop/DPA/CICLO%206/DA2/ProyectoFinal/Disquera/src/DAO/UserDAO.java</file>
+            <file>file:/C:/Users/PAVEL/Desktop/DPA/CICLO%206/DA2/ProyectoFinal/Disquera/src/BEAN/User.java</file>
+            <file>file:/C:/Users/PAVEL/Desktop/DPA/CICLO%206/DA2/ProyectoFinal/Disquera/src/BEAN/Rol.java</file>
+            <file>file:/C:/Users/PAVEL/Desktop/DPA/CICLO%206/DA2/ProyectoFinal/Disquera/src/IU/FrmMantUser.java</file>
             <file>file:/C:/Users/PAVEL/Desktop/DPA/CICLO%206/DA2/ProyectoFinal/Disquera/src/IU/MDIPrincipal.java</file>
+            <file>file:/C:/Users/PAVEL/Desktop/DPA/CICLO%206/DA2/ProyectoFinal/Disquera/src/DAO/RolDAO.java</file>
         </group>
     </open-files>
 </project-private>
